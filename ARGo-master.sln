@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARGo-master", "ARGo-master.csproj", "{E226C66B-5780-ADD9-EFD4-C5441F6CDE74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARGo-master.Editor", "ARGo-master.Editor.csproj", "{4BF0D28C-B3CF-6ABB-1A08-4D7986DFC2C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E226C66B-5780-ADD9-EFD4-C5441F6CDE74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E226C66B-5780-ADD9-EFD4-C5441F6CDE74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E226C66B-5780-ADD9-EFD4-C5441F6CDE74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E226C66B-5780-ADD9-EFD4-C5441F6CDE74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BF0D28C-B3CF-6ABB-1A08-4D7986DFC2C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BF0D28C-B3CF-6ABB-1A08-4D7986DFC2C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BF0D28C-B3CF-6ABB-1A08-4D7986DFC2C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BF0D28C-B3CF-6ABB-1A08-4D7986DFC2C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
